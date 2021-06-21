@@ -6,6 +6,7 @@ Cloud ETL
 
 ### Instructions
 
+
 * As the sole data person at your new company, you have been tasked with cleaning the data from an Excel spreadsheet—which has been exported as a CSV—and creating an SQL database with this data. In other words, you will be performing ETL.
 
 * Take a moment to review the SQL table schemata, which reflect the requirements for the company's new database. Your company will be using S3 for file storage and RDS to host SQL databases.
@@ -19,6 +20,8 @@ Cloud ETL
   * With the *schema.sql* file from the *Resources* folder, use pgAdmin to create the table schemata in RDS.
 
   * Load the data from Pandas DataFrames into RDS.
+
+
 
 ### Attribution
 
